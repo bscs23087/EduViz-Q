@@ -1,0 +1,411 @@
+[
+  {
+    "student_id": "S01",
+    "concept": "superposition",
+    "activity_type": "video",
+    "timestamp": "2025-11-01T09:00:00Z",
+    "time_spent_min": 22,
+    "quiz_score": 8,
+    "forum_posts": 1,
+    "engagement_score": 0.78
+  },
+  {
+    "student_id": "S01",
+    "concept": "entanglement",
+    "activity_type": "notebook",
+    "timestamp": "2025-11-02T10:00:00Z",
+    "time_spent_min": 12,
+    "quiz_score": 5,
+    "forum_posts": 0,
+    "engagement_score": 0.42
+  },
+  {
+    "student_id": "S01",
+    "concept": "measurement",
+    "activity_type": "quiz",
+    "timestamp": "2025-11-03T09:30:00Z",
+    "time_spent_min": 10,
+    "quiz_score": 6,
+    "forum_posts": 0,
+    "engagement_score": 0.55
+  },
+  {
+    "student_id": "S01",
+    "concept": "gates",
+    "activity_type": "sim",
+    "timestamp": "2025-11-04T14:05:00Z",
+    "time_spent_min": 8,
+    "quiz_score": 4,
+    "forum_posts": 0,
+    "engagement_score": 0.35
+  },
+
+  {
+    "student_id": "S02",
+    "concept": "superposition",
+    "activity_type": "video",
+    "timestamp": "2025-11-01T09:15:00Z",
+    "time_spent_min": 18,
+    "quiz_score": 6,
+    "forum_posts": 0,
+    "engagement_score": 0.60
+  },
+  {
+    "student_id": "S02",
+    "concept": "entanglement",
+    "activity_type": "notebook",
+    "timestamp": "2025-11-02T11:20:00Z",
+    "time_spent_min": 9,
+    "quiz_score": 4,
+    "forum_posts": 0,
+    "engagement_score": 0.40
+  },
+  {
+    "student_id": "S02",
+    "concept": "measurement",
+    "activity_type": "quiz",
+    "timestamp": "2025-11-03T09:40:00Z",
+    "time_spent_min": 6,
+    "quiz_score": 3,
+    "forum_posts": 0,
+    "engagement_score": 0.25
+  },
+  {
+    "student_id": "S02",
+    "concept": "gates",
+    "activity_type": "sim",
+    "timestamp": "2025-11-04T14:10:00Z",
+    "time_spent_min": 5,
+    "quiz_score": 3,
+    "forum_posts": 0,
+    "engagement_score": 0.18
+  },
+
+  {
+    "student_id": "S03",
+    "concept": "superposition",
+    "activity_type": "video",
+    "timestamp": "2025-11-01T08:50:00Z",
+    "time_spent_min": 40,
+    "quiz_score": 9,
+    "forum_posts": 2,
+    "engagement_score": 0.92
+  },
+  {
+    "student_id": "S03",
+    "concept": "entanglement",
+    "activity_type": "notebook",
+    "timestamp": "2025-11-02T12:00:00Z",
+    "time_spent_min": 35,
+    "quiz_score": 8,
+    "forum_posts": 1,
+    "engagement_score": 0.88
+  },
+  {
+    "student_id": "S03",
+    "concept": "measurement",
+    "activity_type": "quiz",
+    "timestamp": "2025-11-03T10:00:00Z",
+    "time_spent_min": 22,
+    "quiz_score": 8,
+    "forum_posts": 1,
+    "engagement_score": 0.80
+  },
+  {
+    "student_id": "S03",
+    "concept": "gates",
+    "activity_type": "sim",
+    "timestamp": "2025-11-04T15:00:00Z",
+    "time_spent_min": 20,
+    "quiz_score": 7,
+    "forum_posts": 1,
+    "engagement_score": 0.75
+  },
+
+  {
+    "student_id": "S04",
+    "concept": "superposition",
+    "activity_type": "video",
+    "timestamp": "2025-11-01T11:00:00Z",
+    "time_spent_min": 12,
+    "quiz_score": 5,
+    "forum_posts": 0,
+    "engagement_score": 0.48
+  },
+  {
+    "student_id": "S04",
+    "concept": "entanglement",
+    "activity_type": "notebook",
+    "timestamp": "2025-11-02T12:50:00Z",
+    "time_spent_min": 10,
+    "quiz_score": 4,
+    "forum_posts": 0,
+    "engagement_score": 0.40
+  },
+  {
+    "student_id": "S04",
+    "concept": "measurement",
+    "activity_type": "quiz",
+    "timestamp": "2025-11-03T11:30:00Z",
+    "time_spent_min": 14,
+    "quiz_score": 6,
+    "forum_posts": 0,
+    "engagement_score": 0.58
+  },
+  {
+    "student_id": "S04",
+    "concept": "gates",
+    "activity_type": "sim",
+    "timestamp": "2025-11-04T16:00:00Z",
+    "time_spent_min": 5,
+    "quiz_score": 3,
+    "forum_posts": 0,
+    "engagement_score": 0.22
+  },
+
+  {
+    "student_id": "S05",
+    "concept": "superposition",
+    "activity_type": "video",
+    "timestamp": "2025-11-01T08:30:00Z",
+    "time_spent_min": 28,
+    "quiz_score": 7,
+    "forum_posts": 1,
+    "engagement_score": 0.82
+  },
+  {
+    "student_id": "S05",
+    "concept": "entanglement",
+    "activity_type": "notebook",
+    "timestamp": "2025-11-02T10:30:00Z",
+    "time_spent_min": 20,
+    "quiz_score": 7,
+    "forum_posts": 0,
+    "engagement_score": 0.68
+  },
+  {
+    "student_id": "S05",
+    "concept": "measurement",
+    "activity_type": "quiz",
+    "timestamp": "2025-11-03T08:45:00Z",
+    "time_spent_min": 18,
+    "quiz_score": 7,
+    "forum_posts": 1,
+    "engagement_score": 0.72
+  },
+  {
+    "student_id": "S05",
+    "concept": "gates",
+    "activity_type": "sim",
+    "timestamp": "2025-11-04T13:30:00Z",
+    "time_spent_min": 12,
+    "quiz_score": 6,
+    "forum_posts": 0,
+    "engagement_score": 0.60
+  },
+
+  {
+    "student_id": "S06",
+    "concept": "superposition",
+    "activity_type": "video",
+    "timestamp": "2025-11-01T09:10:00Z",
+    "time_spent_min": 10,
+    "quiz_score": 4,
+    "forum_posts": 0,
+    "engagement_score": 0.38
+  },
+  {
+    "student_id": "S06",
+    "concept": "entanglement",
+    "activity_type": "notebook",
+    "timestamp": "2025-11-02T11:10:00Z",
+    "time_spent_min": 8,
+    "quiz_score": 2,
+    "forum_posts": 0,
+    "engagement_score": 0.18
+  },
+  {
+    "student_id": "S06",
+    "concept": "measurement",
+    "activity_type": "quiz",
+    "timestamp": "2025-11-03T09:00:00Z",
+    "time_spent_min": 7,
+    "quiz_score": 2,
+    "forum_posts": 0,
+    "engagement_score": 0.15
+  },
+  {
+    "student_id": "S06",
+    "concept": "gates",
+    "activity_type": "sim",
+    "timestamp": "2025-11-04T14:45:00Z",
+    "time_spent_min": 9,
+    "quiz_score": 4,
+    "forum_posts": 0,
+    "engagement_score": 0.38
+  },
+
+  {
+    "student_id": "S07",
+    "concept": "superposition",
+    "activity_type": "video",
+    "timestamp": "2025-11-01T09:00:00Z",
+    "time_spent_min": 16,
+    "quiz_score": 6,
+    "forum_posts": 0,
+    "engagement_score": 0.60
+  },
+  {
+    "student_id": "S07",
+    "concept": "entanglement",
+    "activity_type": "notebook",
+    "timestamp": "2025-11-02T12:05:00Z",
+    "time_spent_min": 14,
+    "quiz_score": 6,
+    "forum_posts": 0,
+    "engagement_score": 0.54
+  },
+  {
+    "student_id": "S07",
+    "concept": "measurement",
+    "activity_type": "quiz",
+    "timestamp": "2025-11-03T09:20:00Z",
+    "time_spent_min": 12,
+    "quiz_score": 5,
+    "forum_posts": 0,
+    "engagement_score": 0.45
+  },
+  {
+    "student_id": "S07",
+    "concept": "gates",
+    "activity_type": "sim",
+    "timestamp": "2025-11-04T15:10:00Z",
+    "time_spent_min": 25,
+    "quiz_score": 6,
+    "forum_posts": 1,
+    "engagement_score": 0.70
+  },
+
+  {
+    "student_id": "S08",
+    "concept": "superposition",
+    "activity_type": "video",
+    "timestamp": "2025-11-01T10:40:00Z",
+    "time_spent_min": 12,
+    "quiz_score": 5,
+    "forum_posts": 0,
+    "engagement_score": 0.45
+  },
+  {
+    "student_id": "S08",
+    "concept": "entanglement",
+    "activity_type": "notebook",
+    "timestamp": "2025-11-02T13:40:00Z",
+    "time_spent_min": 10,
+    "quiz_score": 4,
+    "forum_posts": 0,
+    "engagement_score": 0.38
+  },
+  {
+    "student_id": "S08",
+    "concept": "measurement",
+    "activity_type": "quiz",
+    "timestamp": "2025-11-03T10:30:00Z",
+    "time_spent_min": 9,
+    "quiz_score": 3,
+    "forum_posts": 0,
+    "engagement_score": 0.30
+  },
+  {
+    "student_id": "S08",
+    "concept": "gates",
+    "activity_type": "sim",
+    "timestamp": "2025-11-04T16:40:00Z",
+    "time_spent_min": 6,
+    "quiz_score": 3,
+    "forum_posts": 0,
+    "engagement_score": 0.20
+  },
+
+  {
+    "student_id": "S09",
+    "concept": "superposition",
+    "activity_type": "video",
+    "timestamp": "2025-11-01T07:50:00Z",
+    "time_spent_min": 30,
+    "quiz_score": 8,
+    "forum_posts": 1,
+    "engagement_score": 0.85
+  },
+  {
+    "student_id": "S09",
+    "concept": "entanglement",
+    "activity_type": "notebook",
+    "timestamp": "2025-11-02T09:50:00Z",
+    "time_spent_min": 28,
+    "quiz_score": 7,
+    "forum_posts": 1,
+    "engagement_score": 0.80
+  },
+  {
+    "student_id": "S09",
+    "concept": "measurement",
+    "activity_type": "quiz",
+    "timestamp": "2025-11-03T07:45:00Z",
+    "time_spent_min": 20,
+    "quiz_score": 7,
+    "forum_posts": 1,
+    "engagement_score": 0.72
+  },
+  {
+    "student_id": "S09",
+    "concept": "gates",
+    "activity_type": "sim",
+    "timestamp": "2025-11-04T12:15:00Z",
+    "time_spent_min": 18,
+    "quiz_score": 6,
+    "forum_posts": 1,
+    "engagement_score": 0.68
+  },
+
+  {
+    "student_id": "S10",
+    "concept": "superposition",
+    "activity_type": "video",
+    "timestamp": "2025-11-01T08:20:00Z",
+    "time_spent_min": 14,
+    "quiz_score": 5,
+    "forum_posts": 0,
+    "engagement_score": 0.52
+  },
+  {
+    "student_id": "S10",
+    "concept": "entanglement",
+    "activity_type": "notebook",
+    "timestamp": "2025-11-02T10:00:00Z",
+    "time_spent_min": 12,
+    "quiz_score": 5,
+    "forum_posts": 0,
+    "engagement_score": 0.50
+  },
+  {
+    "student_id": "S10",
+    "concept": "measurement",
+    "activity_type": "quiz",
+    "timestamp": "2025-11-03T08:00:00Z",
+    "time_spent_min": 11,
+    "quiz_score": 5,
+    "forum_posts": 0,
+    "engagement_score": 0.48
+  },
+  {
+    "student_id": "S10",
+    "concept": "gates",
+    "activity_type": "sim",
+    "timestamp": "2025-11-04T13:00:00Z",
+    "time_spent_min": 10,
+    "quiz_score": 5,
+    "forum_posts": 0,
+    "engagement_score": 0.50
+  }
+]
